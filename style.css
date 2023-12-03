@@ -68,7 +68,7 @@ header{
 .home{
     width: 100%;
     min-height: 100vh;
-    background-image: url(GIFA.webp);
+    background-image: url(img/GIFA.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: right;
